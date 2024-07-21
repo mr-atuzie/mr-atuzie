@@ -32,9 +32,9 @@ Description: A full-stack booking application built with the MERN stack, inspire
 #### Use Demo: [https://nation-properties.netlify.app](https://nation-properties.netlify.app)
 
 ## CONTACTS
--**Linkedin:**  **[www.linkedin.com/in/rex-atuzie-0ab67820](www.linkedin.com/in/rex-atuzie-0ab67820)** <br/>
--**X:** **[https://twitter.com/AtuzieR](https://twitter.com/AtuzieR)** <br/>
--**Githb:** **[https://github.com/mr-atuzie](https://github.com/mr-atuzie)** <br/>
--**Portfolio:** **[https://rexatuzie.netlify.app](https://rexatuzie.netlify.app)** <br/>
--**Email:** **[rexatuzie@gmail.com](rexatuzie@gmail.com)**
+**Linkedin:** [www.linkedin.com/in/rex-atuzie-0ab67820](www.linkedin.com/in/rex-atuzie-0ab67820) <br/>
+**X:** [https://twitter.com/AtuzieR](https://twitter.com/AtuzieR) <br/>
+**Githb:** [https://github.com/mr-atuzie](https://github.com/mr-atuzie) <br/>
+**Portfolio:** [https://rexatuzie.netlify.app](https://rexatuzie.netlify.app) <br/>
+**Email:** [rexatuzie@gmail.com](rexatuzie@gmail.com)
 
