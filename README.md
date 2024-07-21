@@ -23,13 +23,13 @@ I'm open to Job opportunities where I can contribute to projects that challenege
 ## PROJECTS
 ### E-commerce app
  an E-commerce platform that features Product listing with categories and search functionality,Add to cart and remove items, Persistent cart using MongoDB,Order creation and tracking and integrating Paystack as the online payment gateway to handle transactions securely.it was built using the MERN stack (MongoDB, Express.js, React, Node.js) with Redux for state management and Tailwind CSS for styling.
-#### Technologies:** MongoDB, Express.js, React, Node.js, Tailwind CSS, Redux
-#### **Use Demo:** [https://ec-shop.netlify.app](https://ec-shop.netlify.app)
+#### Technologies: MongoDB, Express.js, React, Node.js, Tailwind CSS, Redux
+#### Use Demo: [https://ec-shop.netlify.app](https://ec-shop.netlify.app)
 
 ### MERN Booking App
 Description: A full-stack booking application built with the MERN stack, inspired by Airbnb. Users can upload and list their properties, search for accommodations, and book stays. The app features automatic calculation of stay duration and pricing.
-**Technologies:** MongoDB, Express.js, React, Node.js, Tailwind CSS
-**Use Demo:** [https://nation-properties.netlify.app](https://nation-properties.netlify.app)
+#### Technologies: MongoDB, Express.js, React, Node.js, Tailwind CSS
+#### Use Demo: [https://nation-properties.netlify.app](https://nation-properties.netlify.app)
 
 ## CONTACTS
 -**Linkedin:**  **[www.linkedin.com/in/rex-atuzie-0ab67820](www.linkedin.com/in/rex-atuzie-0ab67820)** <br/>
