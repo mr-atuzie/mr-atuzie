@@ -34,7 +34,7 @@ Description: A full-stack booking application built with the MERN stack, inspire
 ## CONTACTS
 -**Linkedin:**  **[Linkedin](www.linkedin.com/in/rex-atuzie-0ab67820)** <br/>
 -**X:** **[Twitter](https://twitter.com/AtuzieR)** <br/>
--**Githb:** **[Github](https://github.com/mr-atuzie)**
--**Portfolio:** **[Portfolio](https://rexatuzie.netlify.app)**
+-**Githb:** **[Github](https://github.com/mr-atuzie)** <br/>
+-**Portfolio:** **[Portfolio](https://rexatuzie.netlify.app)** <br/>
 -**Email:** **[Email](rexatuzie@gmail.com)**
 
