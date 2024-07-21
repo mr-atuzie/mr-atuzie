@@ -1,35 +1,40 @@
+### Hi 👋, I'm Rex Atuzie
 
-<h1 align="center">Hi 👋, I'm Rex Atuzie</h1>
-<h3 align="center">A MERN-stack developer from Nigeria</h3>
-<p>I am a self-taught web developer with more than 2  years of experience building both frontend and backend projects. I love working within the JavaScript eco-system, my Tech stack includes working with React Js,Redux and Tailwind CSS for Developing user interface and Node Js/Express Js for developing server side applcation. </p>
+## ABOUT ME
+'m a Fullstack Developer with over 2 years of experience,that specializes on using the MERN stack (MongoDB,Express Js,React Js,Node Js) in building and managing Web Applications. enabling me to handle both frontend and backend development with ease.
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
+My primary tools for frontend development are React Js and Tailwind CSS which enable me build dynamic and visually appealing user interface that provide an excellent user experience across all devices.I use Redux for efficient state management, ensuring seamless and predictable data flow within my applications.
+On the backend, I primarily work with Node Js and Express Js and MongoDB to design RESTful APIs, managing databases, and ensuring secure and efficient data handling.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-atuzie&label=Profile%20views&color=0e75b6&style=flat" alt="mr-atuzie" /> </p>
+I'm open to Job opportunities where I can contribute to projects that challeneges my abilities and expand my expertise.
 
-<p align="left"> <a href="https://twitter.com/atuzier" target="blank"><img src="https://img.shields.io/twitter/follow/atuzier?logo=twitter&style=for-the-badge" alt="atuzier" /></a> </p>
+## Technology
+- HTML
+- CSS
+- Javascript
+- React Js
+- Tailwind CSS
+- Typescript
+- Node Js / Express Js
+- MongoDB
+- Next Js
+- Firebase
 
+## PROJECTS
+### E-commerce app
+ an E-commerce platform that features Product listing with categories and search functionality,Add to cart and remove items, Persistent cart using MongoDB,Order creation and tracking and integrating Paystack as the online payment gateway to handle transactions securely.it was built using the MERN stack (MongoDB, Express.js, React, Node.js) with Redux for state management and Tailwind CSS for styling.
+**Technologies:** MongoDB, Express.js, React, Node.js, Tailwind CSS, Redux
+**Use Demo:** [https://ec-shop.netlify.app](https://ec-shop.netlify.app)
 
+### MERN Booking App
+Description: A full-stack booking application built with the MERN stack, inspired by Airbnb. Users can upload and list their properties, search for accommodations, and book stays. The app features automatic calculation of stay duration and pricing.
+**Technologies:** MongoDB, Express.js, React, Node.js, Tailwind CSS
+**Use Demo:** [https://nation-properties.netlify.app](https://nation-properties.netlify.app)
 
-- 🌱 I’m currently learning **Next Js**
+## CONTACTS
+**Linkedin:**  **[Linkedin](www.linkedin.com/in/rex-atuzie-0ab67820)**, 
+**X:** **[Twitter](https://twitter.com/AtuzieR)**,
+**Githb:** **[Github](https://github.com/mr-atuzie)**, 
+**Portfolio:** **[Portfolio](https://rexatuzie.netlify.app)**
+**Email:** **[Email](rexatuzie@gmail.com)**
 
-- 👨‍💻 All of my projects are available at [https://rex-atuzie.netlify.app/](https://rex-atuzie.netlify.app/)
-
-- 💬 Ask me about **React JS,Typescript,Node Js,Express JS,MongoDB**
-
-- 📫 How to reach me **rexatuzie@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/atuzier" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="atuzier" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rex atuzie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rex atuzie" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mr-atuzie&show_icons=true&locale=en&layout=compact" alt="mr-atuzie" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mr-atuzie&show_icons=true&locale=en" alt="mr-atuzie" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mr-atuzie&" alt="mr-atuzie" /></p>
