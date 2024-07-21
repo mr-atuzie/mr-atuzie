@@ -23,7 +23,7 @@ I'm open to Job opportunities where I can contribute to projects that challenege
 ## PROJECTS
 ### E-commerce app
  an E-commerce platform that features Product listing with categories and search functionality,Add to cart and remove items, Persistent cart using MongoDB,Order creation and tracking and integrating Paystack as the online payment gateway to handle transactions securely.it was built using the MERN stack (MongoDB, Express.js, React, Node.js) with Redux for state management and Tailwind CSS for styling.
-**Technologies:** MongoDB, Express.js, React, Node.js, Tailwind CSS, Redux
+**Technologies:** MongoDB, Express.js, React, Node.js, Tailwind CSS, Redux <br/>
 **Use Demo:** [https://ec-shop.netlify.app](https://ec-shop.netlify.app)
 
 ### MERN Booking App
