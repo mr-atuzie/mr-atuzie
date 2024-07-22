@@ -5,7 +5,7 @@ I'm a Fullstack Developer with over 2 years of experience, specializing in using
 
 My primary tools for front-end development are React Js and Tailwind CSS, enabling me to build dynamic and visually appealing user interfaces that provide an excellent user experience across all devices. I use Redux for efficient state management, ensuring seamless data flow within my applications.
 <br/>
-On the backend, I utilize Node Js and Express Js to design RESTful APIs and MongoDB for managing databases, and ensuring secure and efficient data handling.
+On the backend, My experience includes developing RESTful APIs with Node JS and Express JS, implementing secure authentication and authorization mechanisms, and managing databases with MongoDB. 
 
 I'm open to Job opportunities where I can contribute to projects that challenge my abilities and expand my expertise.
 
