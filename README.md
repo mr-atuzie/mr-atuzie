@@ -1,4 +1,5 @@
-### Hi 👋, I'm Rex Atuzie
+## Hi 👋, I'm Rex Atuzie
+🌐 [My-portfolio](https://rexatuzie.netlify.app)
 
 ## ABOUT ME
 I'm a Fullstack Developer with over 2 years of experience,that specializes on using the MERN stack (MongoDB,Express Js,React Js,Node Js) in building and managing Web Applications. enabling me to handle both frontend and backend development with ease.
@@ -26,13 +27,17 @@ I'm open to Job opportunities where I can contribute to projects that challenege
 
 ### MERN Booking App
 Description: A full-stack booking application built with the MERN stack, inspired by Airbnb. Users can upload and list their properties, search for accommodations, and book stays. The app features automatic calculation of stay duration and pricing.
-#### Technologies: MongoDB, Express.js, React, Node.js, Tailwind CSS
-#### Use Demo: [https://nation-properties.netlify.app](https://nation-properties.netlify.app)
+**Technologies:** MongoDB, Express.js, React, Node.js, Tailwind CSS
+**Use Demo:** [https://nation-properties.netlify.app](https://nation-properties.netlify.app)
 
 ## CONTACTS
-**Linkedin:** [www.linkedin.com/in/rex-atuzie-0ab67820](www.linkedin.com/in/rex-atuzie-0ab67820) <br/>
-**X:** [https://twitter.com/AtuzieR](https://twitter.com/AtuzieR) <br/>
-**Githb:** [https://github.com/mr-atuzie](https://github.com/mr-atuzie) <br/>
-**Portfolio:** [https://rexatuzie.netlify.app](https://rexatuzie.netlify.app) <br/>
+**Linkedin:** [www.linkedin.com/in/rex-atuzie-0ab67820](www.linkedin.com/in/rex-atuzie-0ab67820)
+
+**X:** [https://twitter.com/AtuzieR](https://twitter.com/AtuzieR)
+
+**Githb:** [https://github.com/mr-atuzie](https://github.com/mr-atuzie) 
+
+**Portfolio:** [https://rexatuzie.netlify.app](https://rexatuzie.netlify.app)
+
 **Email:** [rexatuzie@gmail.com](rexatuzie@gmail.com)
 
