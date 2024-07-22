@@ -9,7 +9,7 @@ On the backend, my experience includes developing RESTful APIs with **Node JS** 
 
 I'm open to job opportunities where I can contribute to projects that challenge my abilities and expand my expertise.
 
-## Technology
+## TECHNOLOGY
 **Frontend:**  HTML, CSS, Javascript, React Js, Tailwind CSS, Typescript, Next Js
 
 **Backend:** Node Js , Express Js
