@@ -10,21 +10,11 @@ On the backend, I utilze Node Js and Express Js and MongoDB to design RESTful AP
 I'm open to Job opportunities where I can contribute to projects that challeneges my abilities and expand my expertise.
 
 ## Technology
-#### Frontend 
-- HTML
-- CSS
-- Javascript
-- React Js
-- Tailwind CSS
-- Typescript
+**Frontend:**  HTML, CSS, Javascript, React Js, Tailwind CSS, Typescript, Next Js
 
-  #### Backend 
-- Node Js
--  Express Js
--  
-- MongoDB
-- Next Js
-- Firebase
+**Frontend:** Node Js , Express Js
+
+ **Frontend:** MongoDB , Firebase
 
 ## PROJECTS
 ### E-commerce app
