@@ -26,7 +26,9 @@ I'm open to Job opportunities where I can contribute to projects that challenge 
 
 ### MERN Booking App
 Description: A full-stack booking application built with the MERN stack, inspired by Airbnb. Users can upload and list their properties, search for accommodations, and book stays. The app features automatic calculation of stay duration and pricing.
+
 **Technologies:** MongoDB, Express.js, React, Node.js, Tailwind CSS
+
 **Use Demo:** [https://nation-properties.netlify.app](https://nation-properties.netlify.app)
 
 ## CONTACTS
