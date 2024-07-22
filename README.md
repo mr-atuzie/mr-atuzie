@@ -4,18 +4,24 @@
 I'm a Fullstack Developer with over 2 years of experience,that specializes on using the MERN stack (MongoDB,Express Js,React Js,Node Js) in building and managing Web Applications. enabling me to handle both frontend and backend development with ease.
 
 My primary tools for frontend development are React Js and Tailwind CSS which enable me build dynamic and visually appealing user interface that provide an excellent user experience across all devices.I use Redux for efficient state management, ensuring seamless and predictable data flow within my applications.
-On the backend, I primarily work with Node Js and Express Js and MongoDB to design RESTful APIs, managing databases, and ensuring secure and efficient data handling.
+<br/>
+On the backend, I utilze Node Js and Express Js and MongoDB to design RESTful APIs, managing databases, and ensuring secure and efficient data handling.
 
 I'm open to Job opportunities where I can contribute to projects that challeneges my abilities and expand my expertise.
 
 ## Technology
+#### Frontend 
 - HTML
 - CSS
 - Javascript
 - React Js
 - Tailwind CSS
 - Typescript
-- Node Js / Express Js
+
+  #### Backend 
+- Node Js
+-  Express Js
+-  
 - MongoDB
 - Next Js
 - Firebase
