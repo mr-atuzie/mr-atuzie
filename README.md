@@ -1,5 +1,4 @@
 ## Hi 👋, I'm Rex Atuzie
-🌐 [My-portfolio](https://rexatuzie.netlify.app)
 
 ## ABOUT ME
 I'm a Fullstack Developer with over 2 years of experience,that specializes on using the MERN stack (MongoDB,Express Js,React Js,Node Js) in building and managing Web Applications. enabling me to handle both frontend and backend development with ease.
