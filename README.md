@@ -1,13 +1,13 @@
 #### Hi 👋, I'm Rex Atuzie
 
 ## ABOUT ME
-I'm a Fullstack Developer with over 2 years of experience, specializing in using the MERN stack (MongoDB, Express JS, React JS, Node JS) to build and manage Web Applications enabling me to handle both frontend and backend development with ease.
+I'm a Full-Stack Developer with over 2 years of experience, specializing in the MERN stack **(MongoDB, Express JS, React JS, Node JS)** to build and manage web applications. This expertise enables me to handle both frontend and backend development with ease.
 
-My primary tools for front-end development are React Js and Tailwind CSS, enabling me to build dynamic and visually appealing user interfaces that provide an excellent user experience across all devices. I use Redux for efficient state management, ensuring seamless data flow within my applications.
-<br/>
-On the backend, My experience includes developing RESTful APIs with Node JS and Express JS, implementing secure authentication and authorization mechanisms, and managing databases with MongoDB. 
+My primary tools for front-end development are **React JS** and **Tailwind CSS**, allowing me to create dynamic and visually appealing user interfaces that provide an excellent user experience across all devices. I use **Redux** for efficient state management, ensuring seamless and predictable data flow within my applications.
 
-I'm open to Job opportunities where I can contribute to projects that challenge my abilities and expand my expertise.
+On the backend, my experience includes developing RESTful APIs with **Node JS** and **Express JS**, implementing secure authentication and authorization mechanisms, and managing databases with **MongoDB**.
+
+I'm open to job opportunities where I can contribute to projects that challenge my abilities and expand my expertise.
 
 ## Technology
 **Frontend:**  HTML, CSS, Javascript, React Js, Tailwind CSS, Typescript, Next Js
